@@ -27,7 +27,7 @@ Sponsors
 --------
 * `IT-Projects LLC <https://it-projects.info>`__
 
-Further information
+Furthe information
 ===================
 
 Demo: http://runbot.it-projects.info/demo/website-addons/8.0
